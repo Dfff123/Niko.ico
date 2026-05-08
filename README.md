@@ -1,2 +1,2 @@
-# Niko.ico
+# Niko.png
 An image about Niko
