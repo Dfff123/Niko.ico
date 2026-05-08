@@ -1,2 +1,2 @@
 # Niko.ico
-img about Niko
+An image about Niko
